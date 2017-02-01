@@ -1,0 +1,74 @@
+ Pattern1:
+ 
+Objective: 
+VITALS:  T:  98.2 (01/08/2000 09:00)        RR:  20 (01/08/2000 09:00)
+         Pulse:  88 (01/08/2000 09:00)    BP: 126/50 (01/08/2000 09:00)
+         Weight: 217.2 (01/07/2000 05:55)   Height: 66 (12/28/1999 18:01) 
+BMI:  35.1
+ 
+-------------------
+ Pattern2:
+ 
+ At the end of the appointment, orthostatic blood pressures as follows: 
+Lying 129/83, P 70;  standing 128/85, P 76 (when he assumed a standing 
+position he wailed and said he was feeling very ill and Nurse Wanda spoke 
+in a very soothing tone and he recovered almost immediately);  standing 
+after 3 minutes 135/88, P 77.
+
+------------------------
+
+Pattern3:
+S: Patient with no complaints.
+O: Vitals 36.5       94     106/74 20
+RRR,  2/6 holosystolic murmur, pos. S3
+mild wheezing bilaterally
+
+-------------------
+
+Physical Exam
+Vitals 97.9 F [36.6 C] (02/20/2001 08:35)
+70 in [177.8 cm] (02/20/2001 08:35)
+229 lb [104.1 kg] (02/20/2001 08:35)
+
+
+---------------------
+VITAL SIGNS:  Temperature 98.1, pulse 64, respirations 20, blood
+pressure 144/69, height 74", weight 229 pounds, saturation O2
+stats are 97 percent on room air.
+
+-------------------
+
+VITAL SIGNS:
+WT:   269 lb [122.3 kg] (08/02/2001 09:14)
+HT:   73 in [185.4 cm] (08/02/2001 09:14)
+BP    128/82 (06/14/2002 15:07)
+PULSE 79 (06/14/2002 15:07)
+RESP  20 (06/14/2002 15:07)
+TEMP  98.6 F [37.0 C] (06/14/2002 15:07)
+
+-----------------
+ 
+VITALS:
+BP:     142/81   (12/17/99  09:12)
+Temp:   99.1   (12/17/99  09:12)
+Pulse:  79   (12/17/99  09:12)
+Resp:    
+Pain:   7 (12/17/1999 09:12)
+
+-------------------------
+VITALS (last observed) --
+    BP:  128/75 (08/13/2002 10:04)
+  RESP:  72 (08/13/2002 10:04)
+  TEMP:  97 F [36.1 C] (08/13/2002 10:04)
+ PULSE:  72 (08/13/2002 10:04)
+HEIGHT:  68 in [172.7 cm] (08/13/2002 10:04)
+WEIGHT:  204.8 lb [93.1 kg] (08/13/2002 10:04)
+  PAIN:  3 (08/13/2002 10:04)
+
+  ---------------------
+  Clinical Reminder Activity
+  Blood Pressure > 139/89:
+    Blood Pressure taken at this visit.
+      B/P: 124/70
+  Hepatitis C - Risk Assessment:
+------------------------

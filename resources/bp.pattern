@@ -1,0 +1,7 @@
+# 120/80-90 | 120s / 80-90s | but not  /120 / 80
+# if there is a space between left and right parts and slash, then there should not be any slash anywhere before the 
+<!anchor><gov.va.vinci.vitals.types.IntegerNumber/><!anchor/>('?s)? {0,2}(/|over) {0,2}<!target><gov.va.vinci.vitals.types.IntegerNumber/><!target/>('?s)?
+<!anchor><gov.va.vinci.vitals.types.IntegerNumber/><!anchor/>('?s)? {0,2}(/|over) {0,2}<!target><gov.va.vinci.vitals.types.Range/><!target/>('?s)?
+<!anchor><gov.va.vinci.vitals.types.Range/><!anchor/>('?s)? {0,2}(/|over) {0,2}<!target><gov.va.vinci.vitals.types.Range/><!target/>('?s)?
+
+# but delete / <!anchor><gov.va.vinci.vitals.types.IntegerNumber/><!anchor/>('?s)? {0,2}(/|over) {0,2}<!target><gov.va.vinci.vitals.types.IntegerNumber/><!target/>('?s)? /

@@ -1,0 +1,11 @@
+/input/
+/output/
+/target
+/*.log
+/.project
+/.settings
+/.classpath
+/bin
+.idea
+*.iml
+ProcessingLog.log

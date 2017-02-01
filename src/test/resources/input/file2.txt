@@ -1,0 +1,35 @@
+False positive test.
+
+
+ISOSORBIDE DINITRATE 10MG ORAL TAB TAKE 1 TABLET(S)    ACTIVE
+       BY MOUTH THREE TIMES A DAY
+	   
+LISINOPRIL 5MG TAB PO
+     TAKE ONE TABLET BY MOUTH EVERY DAY FOR BLOOD PRESSURE
+6)  FERROUS SULFATE 325MG TAB PO TID
+     TAKE 1 TABLET(S) BY MOUTH THREE TIMES A DAY
+	 
+	 
+OLOPATADINE 0.1% OPTH 5ML NF INSTILL 1 DROP IN EACH    ACTIVE
+       EYE TWICE A DAY AS NEEDED
+18)  SILDENAFIL CITRATE 100MG TAB TAKE 1/2 TO 1 TABLET BY   ACTIVE
+       MOUTH AS NEEDED 1 HOUR PRIOR TO SEXUAL ACTIVITY
+19)  SULFASALAZINE 500MG TAB TAKE 2 TABLETS THREE TIMES A   ACTIVE
+       DAY
+
+	   
+	   Clinical Reminder Activity
+  Blood Pressure > 139/89:
+    Blood Pressure taken at this visit.
+    
+	-----------------------
+Nutritional status level III, moderately compromised
+P:1)Will change diet to Nas, and can add general diabetic diet back when 
+    appetite increases.
+----------------------------
+
+ IMPORTANT:  If patient has other major risk factors (e.g.; advanced age,
+  diastolic blood pressure below 60, fever, poor dietary intake of protein,
+  hemodynamic instability) advance to next level of risk.
+
+  ------------------

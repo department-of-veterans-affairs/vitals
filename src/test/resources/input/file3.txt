@@ -1,0 +1,72 @@
+cc: fever
+
+HPI
+Mr. Elmo is a a 96yo WM with retroperitoneal liposarcoma s/p 10 surgical 
+resections and currently on a phase II clinical trial with adriamycin +/- AMG 
+655 (last dose per patient report 9/09/2009). 
+
+
+
+------------------------------------
+
+
+
+Date              Vital             Measurement      Qualifiers
+09/09/2009 10:57  Pain              7 
+09/09/2009 10:51  Pain              7 
+09/09/2009 09:29  Pulse             82 
+   "        "     Respir            10 
+09/09/2009 09:00  Temp F (C)        99.1 (37.3) 
+   "        "     Pulse             90               Apical - Regular
+   "        "     Respir            18               Assisted Ventilator
+   "        "     BP                134/80 
+   "        "     POx (L/Min)(%)     98 ()(45)       Ventilator
+09/09/2009 01:38  Temp F (C)        100.3 (37.9) 
+   "        "     BP                120/64 
+   "        "     Wt lbs (kg)[BMI]  233 (105.69)[36*]Actual, Bed Scale
+   "        "     POx (L/Min)(%)     95 ()(50)       Ventilator
+09/09/2009 06:11  Ht in (cm)        68 (172.72) 
+   "        "     Wt lbs (kg)[BMI]  220.0 (99.79)[34*]
+
+
+
+---------------------------------------------
+
+
+Neuro:
+Intubated, follows commands, denies pain
+meds:  dilaudid 0.2mg /ativan 1mg prn
+
+CV:
+HR 40-110 (55 current)
+BP 90-130/30-60 (98/51)
+CVP 15-24
+MAP 60-80
+Amiodarone dc'd yesterday 2/2 spont cardioversion and bradycardia
+exam:  sinus brady, no m/r/g
+
+RESP:
+Intubated
+AC 10/700/5/40%
+RR 7-12 satting 100% pulse ox
+ABG 7.26/36/130/16 on 40% FiO2 (essentially unchanged from yesterday)
+exam:  CTA-B
+
+
+--------------------------------------
+
+
+LABS:  REVIEWED AND DISCUSSED WITH THE PATIENT.
+
+Physical Exam:
+     Vital Signs:  128/75 (08/13/2002 10:04), 72 (08/13/2002 10:04), 72 
+(08/13/2002 10:04), 97 F [36.1 C] (08/13/2002 10:04), 3 (08/13/2002 
+10:04), 204.8 lb [93.1 kg] (08/13/2002 10:04)
+
+Physical Exam
+     VS noted and BP is 128/75 P72.
+GENERAL:  AO X 3, NAD.
+HEENT/HEAD:  AT/NC, PERRLA, EOMI, Fundi benign, no visual fields defects, 
+         no nystagmus, oropharynx clear, nose benign, TM/EXT canals clear 
+         bil.
+

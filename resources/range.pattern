@@ -1,0 +1,4 @@
+[^-]<!anchor><gov.va.vinci.vitals.types.DoubleNumber/><!anchor/>-<!target><gov.va.vinci.vitals.types.DoubleNumber/><!target/>[^-]
+#[^-]<!anchor><gov.va.vinci.vitals.types.IntegerNumber/><!anchor/>-<!target><gov.va.vinci.vitals.types.IntegerNumber/><!target/>[^-]
+
+[^-]<!anchor><gov.va.vinci.vitals.types.IntegerNumber/><!anchor/>('?s)?-<!target><gov.va.vinci.vitals.types.IntegerNumber/><!target/>('?s)?[^-]

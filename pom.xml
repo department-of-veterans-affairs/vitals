@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+
+	<repositories>
+		<repository>
+			<id>Decipher</id>
+			<url>http://decipher.chpc.utah.edu/nexus/content/groups/public/</url>
+		</repository>
+	</repositories>
+	<!-- Parent Pom to Inherit From -->
+	<parent>
+		<groupId>gov.va.vinci</groupId>
+		<artifactId>java-parentpom</artifactId>
+		<version>1.0.2</version>
+	</parent>
+
+	<!-- Project Metadata -->
+	<groupId>gov.va.vinci</groupId>
+	<artifactId>vitals</artifactId>
+	<version>2017.01.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>Vitals Extractor</name>
+	<url>http://maven.apache.org</url>
+	<organization>
+		<name>University of Utah / VA</name>
+	</organization>
+
+	<!-- Dependencies -->
+	<dependencies>
+
+		<!-- Leo Dependencies -->
+		<dependency>
+			<groupId>gov.va.vinci.leo</groupId>
+			<artifactId>leo-base</artifactId>
+			<version>2017.01.2</version>
+			<type>pom</type>
+		</dependency>
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-automatonRegex</artifactId>
+			<version>2017.01.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-sherlock</artifactId>
+			<version>2016.05.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-chex-siman</artifactId>
+			<version>2016.07.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>decodeSVMLIB</artifactId>
+			<version>2016.05.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-knowtator</artifactId>
+			<version>2016.06.1</version>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
+		<dependency>
+			<groupId>org.aspectj</groupId>
+			<artifactId>aspectjweaver</artifactId>
+			<version>1.8.9</version>
+		</dependency>
+
+
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-annotation-pattern</artifactId>
+			<version>2016.11.0</version>
+		</dependency>
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-window</artifactId>
+			<version>2016.05.1</version>
+		</dependency>
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-regex</artifactId>
+			<version>2016.09.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-annotation-librarian</artifactId>
+			<version>2016.10.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>gov.va.vinci</groupId>
+			<artifactId>leo-aucompare</artifactId>
+			<version>2016.09.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>sqljdbc4</artifactId>
+			<version>4.0</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.40</version>
+		</dependency>
+
+	</dependencies>
+	<build>
+		<resources>
+			<resource>
+				<directory>desc/</directory>
+			</resource>
+			<resource>
+				<directory>resources/</directory>
+			</resource>
+			<resource>
+				<directory>config/</directory>
+			</resource>
+		</resources>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-eclipse-plugin</artifactId>
+				<version>2.9</version>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>copy-dependencies</id>
+						<phase>package</phase>
+						<goals>
+							<goal>copy-dependencies</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${project.build.directory}/lib</outputDirectory>
+							<overWriteReleases>false</overWriteReleases>
+							<overWriteSnapshots>false</overWriteSnapshots>
+							<overWriteIfNewer>true</overWriteIfNewer>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>license-maven-plugin</artifactId>
+				<version>1.3</version>
+				<configuration>
+					<inceptionYear>2010</inceptionYear>
+					<licenseName>apache_v2</licenseName>
+					<verbose>true</verbose>
+				</configuration>
+				<executions>
+					<execution>
+						<id>license.package</id>
+						<phase>package</phase>
+						<goals>
+							<goal>update-file-header</goal>
+						</goals>
+						<configuration>
+							<roots>
+								<root>src/main/java</root>
+								<root>src/main/resources</root>
+								<root>src/test/java</root>
+								<root>src/test/resources</root>
+							</roots>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>

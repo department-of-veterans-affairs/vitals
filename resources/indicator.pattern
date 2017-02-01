@@ -1,0 +1,3 @@
+<gov.va.vinci.vitals.types.Term/> *<gov.va.vinci.vitals.types.Term/> *<gov.va.vinci.vitals.types.Term/>
+<gov.va.vinci.vitals.types.DoubleNumber/> +<gov.va.vinci.vitals.types.IntegerNumber/> *<gov.va.vinci.vitals.types.IntegerNumber/> *<gov.va.vinci.vitals.types.PotentialBp/>
+\n<gov.va.vinci.vitals.types.Timestamp/> *<gov.va.vinci.vitals.types.PotentialBp/> +<gov.va.vinci.vitals.types.IntegerNumber/>

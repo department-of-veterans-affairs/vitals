@@ -1,0 +1,51 @@
+ Vital Signs:  128/75 (08/13/2002 10:04), 72 (08/13/2002 10:04), 72 
+(08/13/2002 10:04)
+
+
+===========================================
+
+
+
+
+O: 
+
+Vital signs: Height: 68.5 in [174.0 cm] (02/18/2009 10:24) 
+Measurement DT    PULSE   BP          RESP        TEMP         POx
+                                                  F(C)         (L/MIN)(%)
+06/18/2009 07:58          142/90
+06/18/2009 07:34  132     162/98      28
+04/14/2009 08:40          141/81
+04/14/2009 08:30  120     148/84      20          96.8(36.0)
+03/26/2009 08:15          122/74
+03/26/2009 07:53  104     132/84      20 
+265.1 lbs (JUN 18, 2009@07:34:28)
+266 lbs (MAR 26, 2009@07:53:09)
+269.4 lbs (MAR 16, 2009@08:17:50)
+268 lbs (FEB 18, 2009@10:24:15)
+269 lbs (FEB 17, 2009@04:08:44)
+269.1 lbs (FEB 16, 2009@06:01:45) 
+
+BMI:  39.8 
+
+------------------
+
+PRE-TREATMENT
+____________________________________________________________________________
+WEIGHT 
+Pre-Weight: 73.2 Kg
+Dry Weight: 71 Kg
+Treatment Goal Weight: 2.8 Kg
+TEMPERATURE
+Pre-Temp: 96.6 F
+PRE-BLOOD PRESSURE AND PULSE SEATED
+BP: 158 / 96
+Pulse: 80 bpm
+PRE-BLOOD PRESSURE AND PULSE STANDING
+BP: 156 / 107
+Pulse: 93 bpm
+OTHER
+Edema: No
+Respirations: 18
+Shortness of Breath: No
+Station #: 2
+Machine #: 30

@@ -1,0 +1,12 @@
+<!DOCTYPE aspectj PUBLIC "-//AspectJ//DTD//EN" "http://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+
+<aspectj>
+
+    <aspects>
+        <aspect name="gov.va.vinci.vitals.optimization.PerformanceMonitor"/>
+    </aspects>
+
+    <weaver > <!-- options="-verbose -showWeaveInfo" -->
+        <include within="gov.va..*"/>
+    </weaver>
+</aspectj>
