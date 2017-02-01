@@ -1,6 +1,16 @@
+Vital Signs Extraction System
+------------------------------
 
-Pipeline
---------------
+Assessment of vital signs is an essential part of surveillance of critically ill patients to detect condition changes and clinical deterioration. While most modern electronic medical records allow for vitals to be recorded in a structured format, the frequency and quality of what is electronically stored may differ from how often these measures are actually recorded. We created a tool that extracts blood pressure, heart rate, temperature, respiratory rate, blood oxygen saturation, and pain level from nursing and other clinical notes recorded in the course of inpatient care to supplement structured vital sign data. 
+
+If you use this system, please cite:
+
+Patterson O V., Jones M, Yao Y, Viernes B, Alba PR, Iwashyna TJ, et al. Extraction of Vital Signs from Clinical Notes. Stud Health Technol Inform. 2015; 216:1035. Available from: http://www.ncbi.nlm.nih.gov/pubmed/26262334 
+
+
+
+
+### Pipeline modules
 
 - createNumericPipeline
    - NumericAnnotator
