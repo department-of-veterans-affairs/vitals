@@ -5,7 +5,7 @@ Assessment of vital signs is an essential part of surveillance of critically ill
 
 If you use this system, please cite:
 
-Patterson O V., Jones M, Yao Y, Viernes B, Alba PR, Iwashyna TJ, et al. Extraction of Vital Signs from Clinical Notes. Stud Health Technol Inform. 2015; 216:1035. Available from: http://www.ncbi.nlm.nih.gov/pubmed/26262334 
+Patterson OV, Jones M, Yao Y, Viernes B, Alba PR, Iwashyna TJ, DuVall SL. Extraction of Vital Signs from Clinical Notes. Stud Health Technol Inform. 2015; 216:1035. Available from: http://www.ncbi.nlm.nih.gov/pubmed/26262334 
 
 
 
